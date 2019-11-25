@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class SetExample {
 	public static void main(String args[]) {
-		
+		//example
 		Set<String> set = new HashSet<String>(); 
 		set.add("item1");
 		set.add("item2");
